@@ -3,11 +3,6 @@
 	"classify": "［产品］新品推荐",
 	"icon": "czs-bookmark-l",
 	"sites": [ {
-		"name": "Kickstarter",
-		"href": "https://www.kickstarter.com/",
-		"desc": "全球著名的新品众筹平台",
-		"logo": "http://chuangzaoshi.com/assets/images/P/kickstarter.png"
-	}, {
 		"name": "Steam",
 		"href": "http://store.steampowered.com/",
 		"desc": "全球最大的综合性数字发行平台",
