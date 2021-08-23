@@ -1,5 +1,20 @@
 [{
 	"_id": "5ce77a75afdec884fab9599d",
+	"classify": "［产品］黑科技",
+	"icon": "czs-bookmark-l",
+	"sites": [ {
+		"name": "Steam",
+		"href": "http://store.steampowered.com/",
+		"desc": "全球最大的综合性数字发行平台",
+		"logo": "img/steam.png"
+	}, {
+		"name": "知晓程序",
+		"href": "https://minapp.com/",
+		"desc": "微信小程序应用商店和大全",
+		"logo": "img/minapp.png"
+	}]
+},{
+	"_id": "5ce77a75afdec884fab9599d",
 	"classify": "［产品］新品推荐",
 	"icon": "czs-bookmark-l",
 	"sites": [ {
@@ -142,11 +157,6 @@
 		"href": "https://www.toketaware.com/",
 		"desc": "非常优秀的Mac平台思维导图",
 		"logo": "img/ithonghtsx.png"
-	}, {
-		"name": "Lighten",
-		"href": "http://lighten.xmind.net/",
-		"desc": "XMind团队推出的iOS脑图App",
-		"logo": "img/lighten.png"
 	}]
 }, {
 	"_id": "5ce77a75afdec884fab959a1",
