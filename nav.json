@@ -1,7 +1,7 @@
 [{
 	"_id": "5ce77a75afdec884fab9599d",
-	"classify": "［产品］黑科技",
-	"icon": "czs-bookmark-l",
+	"classify": "［黑科技］黑科技",
+	"icon": "czs-router",
 	"sites": [ {
 		"name": "Steam",
 		"href": "http://store.steampowered.com/",
