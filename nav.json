@@ -1,20 +1,5 @@
 [{
 	"_id": "5ce77a75afdec884fab9599d",
-	"classify": "［黑科技］黑科技",
-	"icon": "czs-router",
-	"sites": [ {
-		"name": "Steam",
-		"href": "http://store.steampowered.com/",
-		"desc": "全球最大的综合性数字发行平台",
-		"logo": "img/steam.png"
-	}, {
-		"name": "知晓程序",
-		"href": "https://minapp.com/",
-		"desc": "微信小程序应用商店和大全",
-		"logo": "img/minapp.png"
-	}]
-},{
-	"_id": "5ce77a75afdec884fab9599d",
 	"classify": "［产品］新品推荐",
 	"icon": "czs-bookmark-l",
 	"sites": [ {
@@ -2485,5 +2470,20 @@
 		"href": "http://bigbang-consulting.com",
 		"desc": "创新型用户体验设计公司",
 		"logo": "img/bigbang-consulting.png"
+	}]
+},{
+	"_id": "5ce77a75afdec884fab9599d",
+	"classify": "［黑科技］黑科技",
+	"icon": "czs-router",
+	"sites": [ {
+		"name": "Steam",
+		"href": "http://store.steampowered.com/",
+		"desc": "全球最大的综合性数字发行平台",
+		"logo": "img/steam.png"
+	}, {
+		"name": "知晓程序",
+		"href": "https://minapp.com/",
+		"desc": "微信小程序应用商店和大全",
+		"logo": "img/minapp.png"
 	}]
 }]
