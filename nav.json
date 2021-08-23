@@ -163,11 +163,6 @@
 		"desc": "微软强大的云笔记，支持多用户协作",
 		"logo": "img/onenote.png"
 	}, {
-		"name": "印象笔记",
-		"href": "https://www.yinxiang.com/",
-		"desc": "简洁好用的云笔记",
-		"logo": "img/yinxiang.png"
-	}, {
 		"name": "Trello",
 		"href": "https://trello.com/",
 		"desc": "项目进度管理和发布、协同工作平台",
