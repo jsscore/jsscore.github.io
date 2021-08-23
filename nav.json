@@ -6,7 +6,7 @@
 		"name": "Steam",
 		"href": "http://store.steampowered.com/",
 		"desc": "全球最大的综合性数字发行平台",
-		"logo": "http://chuangzaoshi.com/assets/images/P/steam.png"
+		"logo": "img/steam.png"
 	}, {
 		"name": "知晓程序",
 		"href": "https://minapp.com/",
