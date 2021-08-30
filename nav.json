@@ -1,5 +1,5 @@
 [{
-	"_id": "5ce77a75afdec884fab9599d",
+	"_id": "5ce77a75afdec884fab95990",
 	"classify": "［极客］极客社区",
 	"icon": "czs-bookmark-l",
 	"sites": [ {
@@ -14,9 +14,9 @@
 		"logo": "img/吾爱破解.png"
 	}]
 }, {
-	"_id": "5ce77a75afdec884fab959a4",
-	"classify": "［极客］趣味极客",
-	"icon": "czs-chemistry-l",
+	"_id": "5ce77a75afdec884fab95991",
+	"classify": "［极客］工具箱",
+	"icon": "czs-dashboard-l",
 	"sites": [{
 		"name": "GitHub",
 		"href": "https://github.com/",
@@ -28,15 +28,80 @@
 		"desc": "中国最大代码托管平台",
 		"logo": "img/gitee.png"
 	}, {
-		"name": "IFTTT",
-		"href": "https://ifttt.com/discover",
-		"desc": "触发你的智能生活,让生活更极客更简单",
-		"logo": "http://chuangzaoshi.com/assets/images/P/ifttt.png"
+		"name": "MSDN",
+		"href": "https://msdn.itellyou.cn/",
+		"desc": "我告诉你",
+		"logo": "img/msdn.ico"
 	}, {
-		"name": "Gitee",
-		"href": "https://gitee.com/",
-		"desc": "中国最大代码托管平台",
-		"logo": "img/gitee.png"
+		"name": "ITELLYOU",
+		"href": "https://next.itellyou.cn/",
+		"desc": "提供可靠的原版软件",
+		"logo": "img/msdn.ico"
+	}, {
+		"name": "RedHat镜像下载站",
+		"href": "https://www.wanghualang.com/red-hat-enterprise-linux.html",
+		"desc": "整理分享历代官方正式版镜像",
+		"logo": "img/redhat.ico"
+	}, {
+		"name": "草莓图标库",
+		"href": "http://chuangzaoshi.com/icon/",
+		"desc": "一款为开发者和创造者设计的免费开源小众图标库",
+		"logo": "img/草莓图标库.png"
+	}, {
+		"name": "字体天下",
+		"href": "https://www.fonts.net.cn/",
+		"desc": "提供各种字体的高速免费下载和在线预览服务",
+		"logo": "img/字体天下.jpg"
+	}, {
+		"name": "360查字体",
+		"href": "https://fonts.safe.360.cn/",
+		"desc": "查版权，免纠纷",
+		"logo": "img/360查字体.png"
+	}]
+}, {
+	"_id": "5ce77a75afdec884fab95992",
+	"classify": "［极客］后端系统",
+	"icon": "czs-dev-board-l",
+	"sites": [{
+		"name": "RedHat",
+		"href": "https://www.redhat.com/zh",
+		"desc": "世界领先的企业级开源解决方案供应商，依托社区力量为客户提供 Linux、混合云、OpenShift、容器和 Kubernetes 技术",
+		"logo": "img/redhat.ico"
+	}, {
+		"name": "Centos",
+		"href": "https://www.centos.org/",
+		"desc": "免费的、开源的、可以重新分发的开源操作系统",
+		"logo": "img/centos.png"
+	}, {
+		"name": "Ubuntu",
+		"href": "https://cn.ubuntu.com/?_ga=2.26199101.122625181.1630290478-1824437208.1630290478",
+		"desc": "适用于企业服务器、桌面电脑、云、IoT物联网的现代化开源Linux操作系统",
+		"logo": "img/ubuntu.ico"
+	}, {
+		"name": "deepin",
+		"href": "https://www.deepin.org/zh/",
+		"desc": "致力于为全球用户提供美观易用、安全稳定服务的Linux发行版，同时也一直是排名最高的来自中国团队研发的Linux发行版",
+		"logo": "img/deepin.png"
+	}, {
+		"name": "FydeOS",
+		"href": "https://fydeos.com/",
+		"desc": "中国版的 Chrome OS",
+		"logo": "img/fydeos.png"
+	}, {
+		"name": "树莓派",
+		"href": "https://www.raspberrypi.org/",
+		"desc": "只有信用卡大小的微型电脑，其系统基于Linux",
+		"logo": "img/raspberrypi.svg"
+	}]
+}, {
+        "_id": "5ce77a76afdec884fab959b0",
+        "classify": "［极客］黑科技",
+        "icon": "czs-bug-l",
+        "sites": [{
+		"name": "IFTTT",
+		"href": "https://ifttt.com/",
+		"desc": "触发你的智能生活,让生活更极客更简单",
+		"logo": "img/ifttt.ico"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b0",
@@ -52,6 +117,11 @@
 		"href": "https://www.marstab.com/hero/O2OTHAAN246",
 		"desc": "你喜爱的将在这里分享",
 		"logo": "img/羔羊导航.jpg"
+	}, {
+		"name": "果汁导航",
+		"href": "http://guozhivip.com/",
+		"desc": "上网从这里开始！",
+		"logo": "img/果汁导航.ico"
 	}, {
 		"name": "极客猿梦导航 1.0",
 		"href": "https://geekape.github.io/geek-navigation/",
@@ -77,6 +147,11 @@
 		"href": "https://www.marstab.com/hero/O2OTHAAN246",
 		"desc": "为创意工作者而设计",
 		"logo": "img/创造狮导航.png"
+	}, {
+		"name": "王花郎の导航",
+		"href": "https://hwoarang.wang/",
+		"desc": "简约实用的网址导航",
+		"logo": "img/王花郎.ico"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b1",
@@ -168,7 +243,7 @@
 	"classify": "［工具］科学上网",
 	"icon": "czs-paper-plane-l",
 	"sites": [{
-		"name": "二爷翻墙网",
+		"name": "二爷",
 		"href": "https://github.com/ugvf2009/Miles/blob/master/README.md",
 		"desc": "",
 		"logo": ""
@@ -177,31 +252,51 @@
 		"href": "https://s3.amazonaws.com/0ozb-6kaj-r0p8/zh.html",
 		"desc": "利用VPN, SSH和HTTP代理软件提供未经审查的访问互联网。",
 		"logo": "img/Psiphon.png"
-	}, {
-		"name": "appbk",
-		"href": "http://appbk.com/",
-		"desc": "[国内]App Store搜索优化平台",
-		"logo": "http://chuangzaoshi.com/assets/images/O/appbk.png"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b4",
 	"classify": "［工具］工具箱",
 	"icon": "czs-box-l",
 	"sites": [{
-		"name": "草莓图标库",
-		"href": "http://chuangzaoshi.com/icon/",
-		"desc": "一款为开发者和创造者设计的免费开源小众图标库",
-		"logo": "img/草莓图标库.png"
+		"name": "PearOCR文字识别",
+		"href": "https://pearocr.com/",
+		"desc": "完全免费无限制的文字识别网站，从图片中识别出可复制的文字并导出！",
+		"logo": "img/pearocr.ico"
 	}, {
-		"name": "赛风",
-		"href": "https://s3.amazonaws.com/0ozb-6kaj-r0p8/zh.html",
-		"desc": "利用VPN, SSH和HTTP代理软件提供未经审查的访问互联网。",
-		"logo": "img/Psiphon.png"
+		"name": "iLovePDF",
+		"href": "https://www.ilovepdf.com/zh-cn",
+		"desc": "为PDF爱好者提供的PDF文件在线处理工具",
+		"logo": "img/ilovepdf.png"
 	}, {
-		"name": "appbk",
-		"href": "http://appbk.com/",
-		"desc": "[国内]App Store搜索优化平台",
-		"logo": "http://chuangzaoshi.com/assets/images/O/appbk.png"
+		"name": "蜜蜂去水印",
+		"href": "https://video.ciding.cc/",
+		"desc": "在线短视频去水印解析",
+		"logo": "img/蜜蜂去水印.ico"
+	}, {
+		"name": "逗逼拯救世界",
+		"href": "https://www.dbbqb.com/",
+		"desc": "专业的表情包搜索网站",
+		"logo": "img/逗逼拯救世界.ico"
+	}, {
+		"name": "Logoly.Pro",
+		"href": "https://www.logoly.pro/",
+		"desc": "P站图标生成",
+		"logo": "img/Logoly.Pro.ico"
+	}, {
+		"name": "逗逼拯救世界",
+		"href": "https://www.dbbqb.com/",
+		"desc": "专业的表情包搜索网站",
+		"logo": "img/逗逼拯救世界.ico"
+	}, {
+		"name": "逗逼拯救世界",
+		"href": "https://www.dbbqb.com/",
+		"desc": "专业的表情包搜索网站",
+		"logo": "img/逗逼拯救世界.ico"
+	}, {
+		"name": "国家中小学网络云平台",
+		"href": "https://ykt.eduyun.cn/",
+		"desc": "",
+		"logo": ""
 	}]
 }, {
 	"_id": "5ce77a77afdec884fab959b8",
@@ -222,6 +317,11 @@
 		"href": "https://www.gog.com/",
 		"desc": "Good Old Game",
 		"logo": "img/gog.ico"
+	}, {
+		"name": "WeGame",
+		"href": "https://www.wegame.com.cn/",
+		"desc": "腾讯游戏平台",
+		"logo": "img/wegame.png"
 	}]
 }, {
 	"_id": "5ce77a77afdec884fab959c3",
@@ -244,44 +344,64 @@
 		"logo": "http://chuangzaoshi.com/assets/images/D/cdctencent.png"
 	}]
 }, {
-	"_id": "5ce77a75afdec884fab959a5",
-	"classify": "［黑科技］热门推荐",
+	"_id": "5ce77a75afdec884fab959a0",
+	"classify": "［摸鱼］热门推荐",
 	"icon": "czs-fire-l",
 	"sites": [{
-		"name": "w3schools",
-		"href": "http://www.w3schools.com/",
-		"desc": "WEB初学者教程网站",
-		"logo": "http://chuangzaoshi.com/assets/images/C/w3schools.png"
+		"name": "B站",
+		"href": "https://www.bilibili.com/",
+		"desc": "哔哩哔哩 (゜-゜)つロ 干杯~",
+		"logo": "img/bilibili.ico"
 	}, {
 		"name": "Bootstrap",
 		"href": "http://getbootstrap.com/",
 		"desc": "用于黑科技开发的开源工具包",
 		"logo": "http://chuangzaoshi.com/assets/images/C/bootstrap.png"
 	}, {
-		"name": "codepen",
-		"href": "http://codepen.io/",
-		"desc": "黑科技炫酷样式技能效果",
-		"logo": "http://chuangzaoshi.com/assets/images/C/codepen.png"
+		"name": "新浪微博",
+		"href": "https://weibo.com/",
+		"desc": "随时随地发现新鲜事！",
+		"logo": "img/新浪微博.ico"
+	}, {
+		"name": "知乎",
+		"href": "https://www.zhihu.com/",
+		"desc": "有问题，就会有答案",
+		"logo": "img/知乎.ico"
+	}, {
+		"name": "豆瓣",
+		"href": "https://www.douban.com/",
+		"desc": "提供图书、电影、音乐唱片的推荐、评论和价格比较,以及城市独特的文化生活。",
+		"logo": "img/豆瓣.ico"
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959af",
-	"classify": "［黑科技］后端系统",
-	"icon": "czs-server-l",
+	"_id": "5ce77a75afdec884fab959a1",
+	"classify": "［摸鱼］各大榜单",
+	"icon": "czs-bar-chart-l",
 	"sites": [{
-		"name": "ubuntu",
-		"href": "https://www.ubuntu.com/",
-		"desc": "以桌面应用为主的开源Linux操作系统",
-		"logo": "http://chuangzaoshi.com/assets/images/C/ubuntu.png"
+		"name": "果汁排行榜",
+		"href": "http://guozhivip.com/rank/",
+		"desc": "各类榜单排名大全",
+		"logo": "img/果汁导航.ico"
 	}, {
-		"name": "Debian",
-		"href": "http://www.debian.org/",
-		"desc": "最遵GNU规范的开源Linux系统",
-		"logo": "http://chuangzaoshi.com/assets/images/C/debian.png"
+		"name": "B站热门视频排行榜",
+		"href": "https://www.bilibili.com/v/popular/rank/all",
+		"desc": "哔哩哔哩 (゜-゜)つロ 干杯~",
+		"logo": "img/bilibili.ico"
 	}, {
-		"name": "Redhat",
-		"href": "https://www.redhat.com/",
-		"desc": "应用最广泛的商业Linux系统",
-		"logo": "http://chuangzaoshi.com/assets/images/C/redhat.png"
+		"name": "微博热搜榜",
+		"href": "https://s.weibo.com/top/summary?cate=realtimehot",
+		"desc": "撕X对线哪家强",
+		"logo": "img/新浪微博.ico"
+	}, {
+		"name": "知乎热榜",
+		"href": "https://www.zhihu.com/billboard",
+		"desc": "谢邀，人在美国，刚下飞机",
+		"logo": "img/知乎.ico"
+	}, {
+		"name": "豆瓣电影 Top 250",
+		"href": "https://movie.douban.com/top250",
+		"desc": "经典永流传",
+		"logo": "img/豆瓣.ico"
 	}, {
 		"name": "Centos",
 		"href": "https://www.centos.org/",
