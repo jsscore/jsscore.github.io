@@ -38,6 +38,16 @@
 		"desc": "提供可靠的原版软件",
 		"logo": "img/msdn.ico"
 	}, {
+		"name": "果核剥壳",
+		"href": "https://www.ghxi.com/",
+		"desc": "博客类型的资源分享软件，守住互联网最后的一片净土",
+		"logo": "img/果核剥壳.png"
+	}, {
+		"name": "亿破姐",
+		"href": "https://www.ypojie.com/",
+		"desc": "给你所需要的内容！",
+		"logo": "img/亿破姐.ico"
+	}, {
 		"name": "RedHat镜像下载站",
 		"href": "https://www.wanghualang.com/red-hat-enterprise-linux.html",
 		"desc": "整理分享历代官方正式版镜像",
@@ -102,6 +112,21 @@
 		"href": "https://ifttt.com/",
 		"desc": "触发你的智能生活,让生活更极客更简单",
 		"logo": "img/ifttt.ico"
+	}, {
+		"name": "太极",
+		"href": "https://taichi.cool/zh/",
+		"desc": "一个可以免 Root 运行的类 Xposed 框架",
+		"logo": "img/太极.svg"
+	}, {
+		"name": "Xposed模块库",
+		"href": "https://repo.xposed.info/",
+		"desc": "you can browse and download modules for the Xposed Framework. ",
+		"logo": "img/Xposed.ico"
+	}, {
+		"name": "Ventoy",
+		"href": "https://www.ventoy.net/cn/index.html",
+		"desc": "新一代多系统启动U盘解决方案",
+		"logo": "img/Ventoy.ico"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b0",
@@ -240,6 +265,41 @@
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b3",
+	"classify": "［工具］网盘",
+	"icon": "czs-cloud-l",
+	"sites": [{
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/",
+		"desc": "KB级传输速度",
+		"logo": "img/百度网盘.ico"
+	}, {
+		"name": "阿里云盘",
+		"href": "https://www.aliyundrive.com/",
+		"desc": "号称永不限速",
+		"logo": "img/阿里云盘.ico"
+	}, {
+		"name": "天翼云盘",
+		"href": "https://cloud.189.cn/",
+		"desc": "中国电信推出的云存储服务",
+		"logo": "img/天翼云盘.ico"
+	}, {
+		"name": "115网盘",
+		"href": "https://115.com/",
+		"desc": "懂得都懂",
+		"logo": "img/115.png"
+	}, {
+		"name": "蓝奏云",
+		"href": "https://www.lanzou.com/",
+		"desc": "小文件分享",
+		"logo": "蓝奏云.ico"
+	}, {
+		"name": "诚通网盘",
+		"href": "https://www.ctfile.com/",
+		"desc": "无会员 无空间 仅下载",
+		"logo": ""
+	}]
+}, {
+	"_id": "5ce77a76afdec884fab959b3",
 	"classify": "［工具］科学上网",
 	"icon": "czs-paper-plane-l",
 	"sites": [{
@@ -306,7 +366,7 @@
 		"name": "Steam",
 		"href": "https://store.steampowered.com/",
 		"desc": "全球最大的综合性数字发行平台",
-		"logo": "http://chuangzaoshi.com/assets/images/P/steam.png"
+		"logo": "img/steam.png"
 	}, {
 		"name": "Epic",
 		"href": "https://www.epicgames.com/store/zh-CN/",
@@ -402,10 +462,5 @@
 		"href": "https://movie.douban.com/top250",
 		"desc": "经典永流传",
 		"logo": "img/豆瓣.ico"
-	}, {
-		"name": "Centos",
-		"href": "https://www.centos.org/",
-		"desc": "Redhat内核开源免费的linux系统",
-		"logo": "http://chuangzaoshi.com/assets/images/C/centos.png"
 	}]
 }]
