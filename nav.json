@@ -53,10 +53,25 @@
 		"desc": "整理分享历代官方正式版镜像",
 		"logo": "img/redhat.ico"
 	}, {
+		"name": "Hexo",
+		"href": "https://hexo.io/zh-cn/",
+		"desc": "快速、简洁且高效的博客框架",
+		"logo": "img/Hexo.png"
+	}, {
+		"name": "JSDELIVR",
+		"href": "https://www.jsdelivr.com/",
+		"desc": "一个免费的开源 CDN",
+		"logo": "img/JSDELIVR.png"
+	}, {
 		"name": "草莓图标库",
 		"href": "http://chuangzaoshi.com/icon/",
 		"desc": "一款为开发者和创造者设计的免费开源小众图标库",
 		"logo": "img/草莓图标库.png"
+	}, {
+		"name": "storyset",
+		"href": "https://storyset.com/",
+		"desc": "免费插画素材下载站",
+		"logo": "img/storyset.svg"
 	}, {
 		"name": "字体天下",
 		"href": "https://www.fonts.net.cn/",
@@ -169,7 +184,7 @@
 		"logo": "img/imyshare.png"
 	}, {
 		"name": "创造狮导航",
-		"href": "https://www.marstab.com/hero/O2OTHAAN246",
+		"href": "http://chuangzaoshi.com/",
 		"desc": "为创意工作者而设计",
 		"logo": "img/创造狮导航.png"
 	}, {
@@ -180,6 +195,21 @@
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b1",
+	"classify": "［工具］搜索引擎",
+	"icon": "czs-search-l",
+	"sites": [{
+		"name": "电影狗搜索",
+		"href": "https://www.dianyinggou.com/",
+		"desc": "专业电影搜索引擎",
+		"logo": "img/电影狗搜索.ico"
+	}, {
+		"name": "小马盘搜索",
+		"href": "https://www.xiaomapan.com/",
+		"desc": "百度网盘搜索引擎",
+		"logo": "img/小马盘搜索.ico"
+	}]
+}, {
+	"_id": "5ce77a76afdec884fab959b2",
 	"classify": "［工具］影视鉴赏",
 	"icon": "czs-video-camera-l",
 	"sites": [{
@@ -234,7 +264,7 @@
 		"logo": "img/NO视频.ico"
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b2",
+	"_id": "5ce77a76afdec884fab959b3",
 	"classify": "［工具］音乐鉴赏",
 	"icon": "czs-music-l",
 	"sites": [{
@@ -264,7 +294,7 @@
 		"logo": "img/铜钟.ico"
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b3",
+	"_id": "5ce77a76afdec884fab959b4",
 	"classify": "［工具］网盘",
 	"icon": "czs-cloud-l",
 	"sites": [{
@@ -299,7 +329,7 @@
 		"logo": ""
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b3",
+	"_id": "5ce77a76afdec884fab959b5",
 	"classify": "［工具］科学上网",
 	"icon": "czs-paper-plane-l",
 	"sites": [{
@@ -314,10 +344,20 @@
 		"logo": "img/Psiphon.png"
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b4",
+	"_id": "5ce77a76afdec884fab959b6",
 	"classify": "［工具］工具箱",
 	"icon": "czs-box-l",
 	"sites": [{
+		"name": "Crx4Chrome插件下载",
+		"href": "http://www.crx4.com/",
+		"desc": "提供中文Chrome商店Chrome插件离线安装与下载服务",
+		"logo": "img/Crx4Chrome.ico"
+	}, {
+		"name": "阿里小站",
+		"href": "https://pan.yuankongjian.com/",
+		"desc": "阿里云盘资源共享站",
+		"logo": ""
+	}, {
 		"name": "PearOCR文字识别",
 		"href": "https://pearocr.com/",
 		"desc": "完全免费无限制的文字识别网站，从图片中识别出可复制的文字并导出！",
@@ -333,6 +373,16 @@
 		"desc": "在线短视频去水印解析",
 		"logo": "img/蜜蜂去水印.ico"
 	}, {
+		"name": "疯狂视频去水印",
+		"href": "https://douyin.video996.com/",
+		"desc": "短视频去水印解析下载",
+		"logo": "img/疯狂视频去水印.ico"
+	}, {
+		"name": "savieo",
+		"href": "https://savieo.com/zh/",
+		"desc": "通用社交媒体下载器",
+		"logo": "img/savieo.ico"
+	}, {
 		"name": "逗逼拯救世界",
 		"href": "https://www.dbbqb.com/",
 		"desc": "专业的表情包搜索网站",
@@ -342,16 +392,6 @@
 		"href": "https://www.logoly.pro/",
 		"desc": "P站图标生成",
 		"logo": "img/Logoly.Pro.ico"
-	}, {
-		"name": "逗逼拯救世界",
-		"href": "https://www.dbbqb.com/",
-		"desc": "专业的表情包搜索网站",
-		"logo": "img/逗逼拯救世界.ico"
-	}, {
-		"name": "逗逼拯救世界",
-		"href": "https://www.dbbqb.com/",
-		"desc": "专业的表情包搜索网站",
-		"logo": "img/逗逼拯救世界.ico"
 	}, {
 		"name": "国家中小学网络云平台",
 		"href": "https://ykt.eduyun.cn/",
