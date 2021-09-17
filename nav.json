@@ -82,6 +82,16 @@
 		"href": "https://fonts.safe.360.cn/",
 		"desc": "查版权，免纠纷",
 		"logo": "img/360查字体.png"
+	}, {
+		"name": "爱给网",
+		"href": "https://www.aigei.com/",
+		"desc": "中国最大的数字娱乐免费素材下载网站",
+		"logo": "img/爱给网.ico"
+	}, {
+		"name": "工具人",
+		"href": "https://www.toolfk.com/",
+		"desc": "TOOLFK在线工具人",
+		"logo": "img/工具人.png"
 	}]
 }, {
 	"_id": "5ce77a75afdec884fab95992",
@@ -163,6 +173,11 @@
 		"desc": "上网从这里开始！",
 		"logo": "img/果汁导航.ico"
 	}, {
+		"name": "口袋多导航",
+		"href": "https://www.koudaiduo.com/",
+		"desc": "小盆友和大神都值得拥有的宝藏网站网址导航",
+		"logo": "img/口袋多导航.ico"
+	}, {
 		"name": "极客猿梦导航 1.0",
 		"href": "https://geekape.github.io/geek-navigation/",
 		"desc": "专注独立开发者的导航站",
@@ -203,10 +218,35 @@
 		"desc": "专业电影搜索引擎",
 		"logo": "img/电影狗搜索.ico"
 	}, {
+		"name": "熊崩",
+		"href": "https://www.xiongbeng.com/",
+		"desc": "蓝奏云网盘搜索神器",
+		"logo": "img/熊崩.ico"
+	}, {
+		"name": "网盘搜索",
+		"href": "http://wp.soshoulu.com/",
+		"desc": "百度网盘搜索神器",
+		"logo": ""
+	}, {
+		"name": "阿里云盘资源永久汇总页",
+		"href": "http://alipan.vip/",
+		"desc": "阿里云盘资源永久汇总",
+		"logo": "img/120.ico"
+	}, {
 		"name": "小马盘搜索",
 		"href": "https://www.xiaomapan.com/",
 		"desc": "百度网盘搜索引擎",
 		"logo": "img/小马盘搜索.ico"
+	}, {
+		"name": "酷搜",
+		"href": "https://www.kolsou.com/",
+		"desc": "学习资料搜索引擎",
+		"logo": "img/酷搜.png"
+	}, {
+		"name": "鸠摩搜索",
+		"href": "https://www.jiumodiary.com/",
+		"desc": "文档搜索引擎",
+		"logo": "img/鸠摩搜索.png"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b2",
@@ -262,6 +302,21 @@
 		"href": "https://www.novipnoad.com/",
 		"desc": "NOVIPNOAD为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。",
 		"logo": "img/NO视频.ico"
+	}, {
+		"name": "注视",
+		"href": "http://gaze.run/",
+		"desc": "",
+		"logo": ""
+	}, {
+		"name": "唧唧",
+		"href": "https://www.jijidown.com/",
+		"desc": "bilibili视频|弹幕在线下载",
+		"logo": "img/唧唧.ico"
+	}, {
+		"name": "蜜柑计划",
+		"href": "https://mikanani.me/",
+		"desc": "新一代的动漫下载站",
+		"logo": "img/mikanani.ico"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b3",
@@ -292,9 +347,39 @@
 		"href": "https://tonzhon.com/",
 		"desc": "在线音乐集合网站",
 		"logo": "img/铜钟.ico"
+	}, {
+		"name": "好听轻音乐网",
+		"href": "http://www.htqyy.com/",
+		"desc": "最好听的轻音乐分享、试听、欣赏、下载、推荐、排行",
+		"logo": "img/好听轻音乐网.ico"
 	}]
 }, {
 	"_id": "5ce77a76afdec884fab959b4",
+	"classify": "［工具］博览群书",
+	"icon": "czs-books-l ",
+	"sites": [{
+		"name": "Z-Library",
+		"href": "https://zh.singlelogin.org/",
+		"desc": "数字图书馆",
+		"logo": "img/zlibrary.svg"
+	}, {
+		"name": "SoBooks",
+		"href": "https://sobooks.cc/",
+		"desc": "一起分享阅读的乐趣",
+		"logo": "img/SoBooks.ico"
+	}, {
+		"name": "Mox.moe",
+		"href": "https://mox.moe/",
+		"desc": "Kindle漫畫|Kobo漫畫|epub漫畫",
+		"logo": "img/mox.ico"
+	}, {
+		"name": "就爱故事网",
+		"href": "https://www.92gushi.com/",
+		"desc": "故事在线阅读",
+		"logo": ""
+	}]
+}, {
+	"_id": "5ce77a76afdec884fab959b5",
 	"classify": "［工具］网盘",
 	"icon": "czs-cloud-l",
 	"sites": [{
@@ -329,7 +414,7 @@
 		"logo": ""
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b5",
+	"_id": "5ce77a76afdec884fab959b6",
 	"classify": "［工具］科学上网",
 	"icon": "czs-paper-plane-l",
 	"sites": [{
@@ -344,10 +429,15 @@
 		"logo": "img/Psiphon.png"
 	}]
 }, {
-	"_id": "5ce77a76afdec884fab959b6",
+	"_id": "5ce77a76afdec884fab959b7",
 	"classify": "［工具］工具箱",
 	"icon": "czs-box-l",
 	"sites": [{
+		"name": "分流抢票",
+		"href": "https://www.bypass.cn/",
+		"desc": "12306抢票软件",
+		"logo": "img/bypass.ico"
+	}, {
 		"name": "Crx4Chrome插件下载",
 		"href": "http://www.crx4.com/",
 		"desc": "提供中文Chrome商店Chrome插件离线安装与下载服务",
@@ -383,6 +473,11 @@
 		"desc": "通用社交媒体下载器",
 		"logo": "img/savieo.ico"
 	}, {
+		"name": "我爱斗图",
+		"href": "https://www.52doutu.cn/",
+		"desc": "斗图终结者是一个屌炸天的在线表情包制作网站，这里有各式各样的表情模板，还有大量的成品表情图，助您成为真正的斗图终结者！",
+		"logo": "img/我爱斗图.ico"
+	}, {
 		"name": "逗逼拯救世界",
 		"href": "https://www.dbbqb.com/",
 		"desc": "专业的表情包搜索网站",
@@ -392,6 +487,11 @@
 		"href": "https://www.logoly.pro/",
 		"desc": "P站图标生成",
 		"logo": "img/Logoly.Pro.ico"
+	}, {
+		"name": "全国移动电话卡“一证通查”",
+		"href": "https://getsimnum.caict.ac.cn/",
+		"desc": "全国移动电话卡“一证通查”",
+		"logo": "img/一证通查.ico"
 	}, {
 		"name": "国家中小学网络云平台",
 		"href": "https://ykt.eduyun.cn/",
@@ -425,23 +525,38 @@
 	}]
 }, {
 	"_id": "5ce77a77afdec884fab959c3",
-	"classify": "［游戏］游戏团队",
+	"classify": "［游戏］游戏论坛",
 	"icon": "czs-user-l",
 	"sites": [{
-		"name": "eicodesign",
-		"href": "http://eicodesign.com/",
-		"desc": "国内专业界游戏团队",
-		"logo": "http://chuangzaoshi.com/assets/images/D/eicodesign.png"
+		"name": "3DMGAME",
+		"href": "https://www.3dmgame.com/",
+		"desc": "盗版游戏集散地",
+		"logo": "img/3dm.png"
 	}, {
-		"name": "腾讯ISUX",
-		"href": "https://isux.tencent.com/",
-		"desc": "社交用户体验游戏",
-		"logo": "http://chuangzaoshi.com/assets/images/D/isuxtencent.png"
+		"name": "游民星空",
+		"href": "https://www.gamersky.com/",
+		"desc": "盗版游戏集散地",
+		"logo": "img/游民星空.png"
 	}, {
-		"name": "腾讯CDC",
-		"href": "http://cdc.tencent.com/",
-		"desc": "腾讯用户研究与体验游戏中心",
-		"logo": "http://chuangzaoshi.com/assets/images/D/cdctencent.png"
+		"name": "游侠网",
+		"href": "https://www.ali213.net/",
+		"desc": "盗版游戏集散地",
+		"logo": ""
+	}, {
+		"name": "其乐 Keylol",
+		"href": "https://keylol.com/",
+		"desc": "驱动正版游戏的引擎！",
+		"logo": "img/Keylol.ico"
+	}, {
+		"name": "SKiDROW CODEX GAMES",
+		"href": "https://www.skidrowcodex.net/",
+		"desc": "Download and Play PC games",
+		"logo": "img/SKiDROW.png"
+	}, {
+		"name": "Skidrow & Reloaded",
+		"href": "https://www.skidrowreloaded.com/",
+		"desc": "Skidrow & Reloaded Games",
+		"logo": "img/skidrowreloaded.png"
 	}]
 }, {
 	"_id": "5ce77a75afdec884fab959a0",
