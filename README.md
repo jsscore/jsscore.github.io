@@ -1,2 +1,3 @@
 # jsscore.github.io
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNAMTQxLjk1LjAuMjY6ODI2#%e9%a6%83%e5%9a%9b%e9%a6%83%e5%9a%9c+DE_38
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5OC41Ny4yNy4xOTE6ODA5MQ==#%e9%a6%83%e5%9a%9a%e9%a6%83%e5%9a%98CA_171
